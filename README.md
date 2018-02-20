@@ -1,4 +1,6 @@
 # choo-envify?
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/cdaringe/choo-envify-.svg)](https://greenkeeper.io/)
 wat
 
 ## Commands
