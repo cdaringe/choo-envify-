@@ -9,6 +9,7 @@ function view (state, emit) {
 
   return html`
     <body class="code lh-copy">
+      ${process.env.NODE_ENV || 'no-node-env'}
       <main class="pa3 cf center">
         <section class="fl mw6 w-50-m w-third-l pa3">
           <h2>1.</h2>
